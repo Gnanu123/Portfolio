@@ -4,7 +4,7 @@ Dynamic and motivated Computer Science graduate with a strong foundation in prog
 ### Customer Churn Prediction
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+This project involves analyzing transaction data of merchants using our company's payment processing services. The primary objectives are to categorize different types of businesses based on transaction patterns and predict merchant churn to inform retention strategies.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
