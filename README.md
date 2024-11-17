@@ -11,13 +11,22 @@ This project involves analyzing transaction data of merchants using our company'
 ### Smart home system
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+This Smart Home System Design Project models a sophisticated automated home environment, incorporating a variety of sensors, control devices, and integrated external systems. The project involves designing a comprehensive software architecture to manage key functionalities such as temperature regulation, home security, water leak detection, fire alarms, and energy monitoring.
+
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ### Sales analysis
+[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+
 This project involves the analysis and visualization of sales data for a Organisation using Power BI. The goal of this analysis is to evaluate the year-to-date (YTD) sales performance, compare it against the previous year's data (PYTD), and identify key metrics that impact profitability and sales growth. The insights provided help in making data-driven decisions for better sales and profitability management.
 
+![Bike Study](/assets/img/bike_study.jpeg)
+
 ### Flight reviews analysis
+[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+
 This project involves the analysis and visualization of customer reviews for Airways using Tableau. The primary objective of this dashboard is to provide a comprehensive overview of customer feedback across various metrics, including service quality, entertainment, seat comfort, and value for money. The insights derived from this analysis can help identify key areas of improvement and enhance the overall customer experience.
+
+![Bike Study](/assets/img/bike_study.jpeg)
 
