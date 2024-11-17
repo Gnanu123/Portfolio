@@ -4,7 +4,7 @@ Dynamic and motivated Computer Science graduate with a strong foundation in prog
 ### Customer Churn Prediction
 [Project](https://github.com/Gnanu123/Churn-prediction)
 
-This project involves analyzing transaction data of merchants using our company's payment processing services. The primary objectives are to categorize different types of businesses based on transaction patterns and predict merchant churn to inform retention strategies.
+This project involves analyzing transaction data of merchants using company's payment processing services. The primary objectives are to categorize different types of businesses based on transaction patterns and predict merchant churn to inform retention strategies using machine learning algorithms
 
 ![EEG Band Discovery](images/customerchurnimage-ezgif.com-webp-to-jpg-converter.jpg)
 
