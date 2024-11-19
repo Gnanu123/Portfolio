@@ -1,4 +1,4 @@
-Dynamic and motivated Computer Science graduate with a strong foundation in programming, seeking an entry-level position in the software industry. Eager to apply my technical skills and knowledge gained through academic projects and internships to contribute to innovative software solutions. Committed to continuous learning and professional growth in a collaborative and dynamic environment. 
+Dynamic and motivated Computer Science graduate with a strong foundation in programming, seeking a position in the software industry. Eager to apply my technical skills and knowledge gained through academic projects and internships to contribute to innovative software solutions. Committed to continuous learning and professional growth in a collaborative and dynamic environment. 
 
 ## Projects
 ### Customer Churn Prediction
