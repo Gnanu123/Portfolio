@@ -1,6 +1,13 @@
 Dynamic and motivated Computer Science graduate with a strong foundation in programming, seeking a position in the software industry. Eager to apply my technical skills and knowledge gained through academic projects and internships to contribute to innovative software solutions. Committed to continuous learning and professional growth in a collaborative and dynamic environment. 
 
 ## Projects
+### Google Analytics Tracking
+[Project](https://github.com/Gnanu123/Churn-prediction)
+
+This project involves analyzing transaction data of merchants using company's payment processing services. The primary objectives are to categorize different types of businesses based on transaction patterns and predict merchant churn to inform retention strategies using machine learning algorithms
+
+![EEG Band Discovery](images/customerchurnimage-ezgif.com-webp-to-jpg-converter.jpg)
+
 ### Customer Churn Prediction
 [Project](https://github.com/Gnanu123/Churn-prediction)
 
