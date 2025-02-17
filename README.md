@@ -2,16 +2,16 @@ Dynamic and motivated Computer Science graduate with a strong foundation in prog
 
 ## Projects
 ### Google Analytics Tracking
-[Project](https://github.com/Gnanu123/Churn-prediction)
+[Project](https://github.com/Gnanu123/Google-Analytics)
 
-This project involves analyzing transaction data of merchants using company's payment processing services. The primary objectives are to categorize different types of businesses based on transaction patterns and predict merchant churn to inform retention strategies using machine learning algorithms
+This Project provides a comprehensive implementation of Google Analytics (GA) and Google Tag Manager (GTM) tracking for an e-commerce platform. The goal is to track user behavior, measure conversion funnels, optimize checkout processes, and provide deep insights into customer journeys.
 
-![EEG Band Discovery](images/customerchurnimage-ezgif.com-webp-to-jpg-converter.jpg)
+![EEG Band Discovery](images/ga4.jpg)
 
 ### Customer Churn Prediction
 [Project](https://github.com/Gnanu123/Churn-prediction)
 
-This project involves analyzing transaction data of merchants using company's payment processing services. The primary objectives are to categorize different types of businesses based on transaction patterns and predict merchant churn to inform retention strategies using machine learning algorithms
+This Project involves analyzing transaction data of merchants using company's payment processing services. The primary objectives are to categorize different types of businesses based on transaction patterns and predict merchant churn to inform retention strategies using machine learning algorithms
 
 ![EEG Band Discovery](images/customerchurnimage-ezgif.com-webp-to-jpg-converter.jpg)
 
